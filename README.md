@@ -1,4 +1,5 @@
 # BUAA-CO-2023-Aut
+
 Squirrel7ang的北航计算机学院2023-2024学年计算机组成实验课 课下设计
 
 ---
@@ -6,6 +7,7 @@ Squirrel7ang的北航计算机学院2023-2024学年计算机组成实验课 课�
 ## 关于本人
 
 &ensp;&ensp;&ensp;&ensp;本人计组小菜鸡，目前进度P7AK（2022级取消P8）回顾一学期的计算机组成实验课，个人犯了很多错误，也出闹出过很多笑话。希望课下设计和博客能够给后来者带来一些启发。
+
 &ensp;&ensp;&ensp;&ensp;博客链接: [Squirrel7ang's Blog](https://squirrel7ang.github.io)(博客还没有完善好，敬请期待！)
 
 ## 关于其他博客
@@ -13,10 +15,15 @@ Squirrel7ang的北航计算机学院2023-2024学年计算机组成实验课 课�
 &ensp;&ensp;&ensp;&ensp;在计算机组成的学习过程中，前人的博客给了我很大启发，尤其是FlyingLandlord和Roife的博客:
 * [FlyingLandlord's Blog](https://flyinglandlord.github.io/)
 * [ROIFE BLOG](https://roife.github.io/)
+* 
 这两篇博客对课上课课下做出了很详细很全面的经验分享，非常值得借鉴
+
 此外还有Toby的博客：[TobyShiの博客](https://toby-shi-cloud.github.io/)
+
 [rfhits的Github仓库](https://github.com/rfhits/Computer-Organization-BUAA-2020)记录了很多前人的仓库和代码。
+
 [Coekjan's Blog](https://coekjan.github.io/)对具体的CPU设计也写得十分详细。
+
 **感谢前辈们的帮助！**
 
 ## 关于课上实验
@@ -78,6 +85,8 @@ Squirrel7ang的北航计算机学院2023-2024学年计算机组成实验课 课�
 ### P6
 
 &ensp;&ensp;&ensp;&ensp;增加了乘除指令，同时在P5的基础上增加了几条算术和分支指令。需要注意的乘除指令引入的新的冒险和阻塞。运气好一晚上解决，运气不好debug三天。
+
+&ensp;&ensp;&ensp;&ensp;P6上机题几乎与P5完全相同，除了算术指令题目更改为乘除算术指令以外几乎没有变化。
 
 ### P7
 
